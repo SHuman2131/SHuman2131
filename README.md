@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergei @SHuman2131
+- 👀 I’m interested in user support, working with databases and system administration
+- 🌱 I’m currently learning learning Python, Linux administration and DevOps practices
+- 📫 I’m here for collecting my portfolio
